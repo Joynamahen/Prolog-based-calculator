@@ -21,3 +21,15 @@ How to Run it
 Open SWI-Prolog and go to menu then select file calculator.pl
 The following pictures illustrate how this prolog system works. There are some other output screenshots 
 of my work as well.
+
+
+![1](https://user-images.githubusercontent.com/80207262/177050624-f6827350-aec6-417b-ac22-7f22da0762d9.PNG)
+
+
+Type calc.
+
+![2](https://user-images.githubusercontent.com/80207262/177050660-a89e7806-d6f6-4a48-883b-a347a2b5444c.PNG)
+
+
+
+
