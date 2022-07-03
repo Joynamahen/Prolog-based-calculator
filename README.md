@@ -5,9 +5,13 @@ learn it. And what I am going to do is a tiny professional framework that calcul
 operators.
 
 I’m considering 4 main operations. There are:
+
 ❖ Addition
+
 ❖ Subtraction
+
 ❖ Multiplication
+
 ❖ Division
 
 
