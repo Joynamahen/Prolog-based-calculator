@@ -16,6 +16,8 @@ I’m considering 4 main operations. There are:
 
 
 How to Run it
+
+
 Open SWI-Prolog and go to menu then select file calculator.pl
 The following pictures illustrate how this prolog system works. There are some other output screenshots 
 of my work as well.
